@@ -16,6 +16,7 @@ Os códigos estão organizados exatamente conforme a divisão de pastas do proje
 *   **`Lista de recursao/`**: Funções recursivas aplicadas (soma de dígitos, inversão de strings, função de Ackermann, cálculo de MDC por Euclides, sequências de Fibonacci e Torres de Hanói).
 *   **`Manipulação de arquivos/`**: Leitura, escrita, gravação e processamento de dados persistidos em arquivos.
 *   **`estruturas, structs e manipulação de dados/`**: Uso de registros customizados (`struct`), alocação dinâmica e gerenciamento de sistemas de cadastros.
+*   **`trabalhos práticos`**: Trabalhos práticos de atp 1 (todos os trabalhos práticos de atp 2 estão nas pastas divididos por assunto pois é mais denso e foram feitos por partes). 
 
 ---
 
